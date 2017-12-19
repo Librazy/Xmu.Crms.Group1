@@ -1,16 +1,10 @@
-﻿using System;
-using System.Reflection;
-using System.Threading.Tasks;
+﻿using System.Reflection;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Xmu.Crms.Services.Group1;
 using Xmu.Crms.Shared;
-using Xmu.Crms.Shared.Models;
 
-namespace CourseManagementSystem.Group1
+namespace Xmu.Crms.Group1
 {
     public class Program
     {
