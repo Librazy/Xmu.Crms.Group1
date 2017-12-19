@@ -4,6 +4,7 @@ using Xmu.Crms.Shared.Models;
 
 namespace CourseManagementSystem.Group1
 {
+    //示例 RESTful API
     [Route("")]
     [Produces("application/json")]
     public class ClassController : Controller
