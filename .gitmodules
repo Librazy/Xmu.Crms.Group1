@@ -1,9 +1,12 @@
 [submodule "Xmu.Crms.Shared"]
 	path = Xmu.Crms.Shared
 	url = git@github.com:Librazy/Xmu.Crms.Shared.git
+	branch = master
 [submodule "Xmu.Crms.Services.Group1"]
 	path = Xmu.Crms.Services.Group1
 	url = git@github.com:Librazy/Xmu.Crms.Services.Group1.git
+	branch = master
 [submodule "Xmu.Crms.Web.Group1"]
 	path = Xmu.Crms.Web.Group1
 	url = git@github.com:Librazy/Xmu.Crms.Web.Group1.git
+	branch = master
