@@ -19,7 +19,7 @@ namespace Xmu.Crms.Group1
             WebHost.CreateDefaultBuilder(args)
                 .UseIISIntegration()
                 .UseStartup<Startup>()
-                .ConfigureServices(services => services.AddGroup1UserService().AddCrmsView("Web.Group1"))
+                .ConfigureServices(services => services.AddGroup1LoginService().AddCrmsView("Web.Group1"))
                 .Build();
     }
 }
